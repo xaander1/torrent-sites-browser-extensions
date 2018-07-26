@@ -18,10 +18,5 @@
     "permissions":[
         "tabs"
     
-    ],
-    "developer": {
-        "name": "Alexander Njogu"
-     }
-    
-    
+    ]
     }

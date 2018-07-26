@@ -1,0 +1,27 @@
+{"manifest_version" : 2,
+    "name":"Torrent sites",
+    "description": "This extension offers top trusted torrent site for downloading torrents",
+    "version": "1.0",
+    "icons": {
+        "16": "icon16.png",
+        "48": "icon48.png",
+        "128": "icon128.png" },
+    
+    "browser_action":
+    {
+    
+        "default_popup":"popup.html",
+        "default_icon":"icon128.png"
+       
+    },
+    
+    "permissions":[
+        "tabs"
+    
+    ],
+    "developer": {
+        "name": "Alexander Njogu"
+     }
+    
+    
+    }

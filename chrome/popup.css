@@ -1,0 +1,35 @@
+body{
+    width:375px;
+    height:auto;
+    background-color:aliceblue;
+ }
+ h1{
+     color:#191919; 
+    font-family: "Helvetica";
+    text-align: center;
+ }
+
+ #sitebody{
+    display: flex;
+    font-size: 9px;
+    flex-wrap: wrap;
+
+ }
+ #section{
+    margin:5px;
+    text-align:center;
+ }
+ #img{
+    width:40px;
+    height:40px;
+    
+ }
+ p{
+     display: inline;
+ }
+ #regard{
+     text-align:center;
+     color:black;
+     font-family: "Comic Sans MS";
+     font-size:9px;
+     }

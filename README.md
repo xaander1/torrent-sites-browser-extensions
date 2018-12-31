@@ -22,6 +22,8 @@
 
 <i>Ta-da! The extension has been successfully installed.</i>
 
+<p align="center"><img src="Screenshot.png"/></p>
+
  
  </body>
  </html>

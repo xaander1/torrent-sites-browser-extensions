@@ -1,7 +1,7 @@
 body{
     width:450px;
     height:auto;
-    background-color:aliceblue;
+    background-color:aliceblue !important;
  }
  h1{
      color:#191919; 
@@ -38,6 +38,10 @@ body{
      }
   #my_button{
     margin-top: 1px !important;
+  }
+  input{
+    border: transparent;
+    outline: none;
   }
 
 

@@ -90,8 +90,6 @@ document.addEventListener('DOMContentLoaded', function () {
        
     }
      window.location.reload();
-     //document.getElementById("weka_input").value="";
-       //document.getElementById("weka_input2").value="";
 }
 }
 
